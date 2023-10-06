@@ -4,9 +4,9 @@
 ~~~
 puts 'The best way to log and share programmers knowledge.'
 ~~~
-*見出し
-*リスト
-*コードブロック
+* 見出し
+* リスト
+* コードブロック
 <p>Gitの基本を学ぼう</p>
 
 
